@@ -59,6 +59,8 @@ def update_sales_worksheet(data):
     sales_worksheet.append_row(data)
     print("Sales worksheet updated succefully.\n")
 
+def calculate_surplus_
+
 
 
 
